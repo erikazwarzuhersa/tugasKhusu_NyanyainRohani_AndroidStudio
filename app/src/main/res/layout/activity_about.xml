@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/layoutLyrics"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:padding="16dp"
+tools:context=".LyricsActivity">
+
+<!-- Toolbar (action bar) -->
+<androidx.appcompat.widget.Toolbar
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    app:title="Nyanyian Rohani"
+    android:titleTextColor="@color/white" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/toolbar">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="20dp"
+            android:titleTextColor="@color/white"
+            android:text="Aplikasi ini dibuat dalam perkuliahan Tugas Khusus pada Program Studi S1 Teknik Informatika Universitas Papua yang diampuh oleh Bpk. Julius P.P. Naibaho, S.Kom., M.Kom.\n\nAnggota Kelompok:\n202165024_Elisabetd Regina Kamodi\n202154042_Switly Fongly Sumarandak\n202165036_Erik Azwar Zuhersa\n202065002_Awal\n202065073_Nathaniel Cristian Awandoi\n202065019_Melany Orpa Ronsumbre"
+            android:textSize="13sp" />
+
+    </LinearLayout>
+
+</RelativeLayout>
+

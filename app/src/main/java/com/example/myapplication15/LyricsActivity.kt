@@ -42,7 +42,9 @@ class LyricsActivity : AppCompatActivity() {
                 "dan janganlah sesat ke kanan dan ke kiri.\n" +
                 "Ya Bapa, Anak, Roh, b'ri kami mengalami\n" +
                 "serta-Mu nanti kepenuhan harap kami.\n",
-        "3. Hormat Bagi Allah Bapa, Hormat Bagi Anak-Nya" to "1. Hormat bagi Allah Bapa,\n" +
+        "3. Hormat Bagi Allah Bapa, Hormat Bagi Anak-Nya" to  "\n" +
+                "1 = Bes 4/4 \n" + "\n" +
+                "1. Hormat bagi Allah Bapa,\n" +
                 "hormat bagi Anak-Nya,\n" +
                 "hormat bagi Roh Penghibur,\n" +
                 "ketiganya Yang Esa.\n" +
@@ -62,7 +64,10 @@ class LyricsActivity : AppCompatActivity() {
                 "di hadapan takhta-Mu.\n" +
                 "Haleluya, haleluya.\n" +
                 "di hadapan takhta-Mu.\n",
-        "4. Kudus, Kudus, Kuduslah, Tuhan Mahakuasa" to "1. Kudus, kudus, kuduslah, Tuhan Mahakuasa,\n" +
+        "4. Kudus, Kudus, Kuduslah, Tuhan Mahakuasa" to
+                "\n" +
+                "1=Es 4/4\n" + "\n" +
+                "1. Kudus, kudus, kuduslah, Tuhan Mahakuasa,\n" +
                 "kami dini hari menyanyi pujian.\n" +
                 "Kudus, kudus, kuduslah, Pemerintah masa,\n" +
                 "Allah dan Raja kaum sekalian.\n" +
@@ -81,7 +86,9 @@ class LyricsActivity : AppCompatActivity() {
                 "Bapa, Anak, Roh, yang mulia-Nya baka.\n" +
                 "Kudus, kudus, kuduslah, ribuan bahasa\n" +
                 "memuji Tuhan, Allah yang Esa.\n",
-        "5. Hai Makhluk Allah-hu Besar" to "\n" +
+        "5. Hai Makhluk Allah-hu Besar" to  "\n" +
+                "1=Es \n" + "\n" +
+
                 "1. Hai makhluk Allah Hu Besar,\n" +
                 "bernyanyilah dan bergemar,\n" +
                 "haleluya, haleluya!\n" +
